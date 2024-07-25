@@ -1,0 +1,42 @@
+/* App.css */
+  
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0b7b7;
+    border-radius: 1em;
+    font-size: 1.5em;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  div{
+    box-sizing: border-box;
+  }
+  .list{
+    padding-left: 1em;
+    text-align: left;
+    border-bottom: 1px solid gray;
+  }
+  .black-nav{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    color:white;
+    padding-left: 1em;
+  }
+  .modal{
+    margin-top:1em;
+    padding:1em;
+    background-color: #eee;
+    text-align: left;
+  }
+  
